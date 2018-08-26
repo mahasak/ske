@@ -8,7 +8,6 @@ import (
 )
 
 const (
-	// DefaultK8s = "v1.11.1-rancher1-1"
 	DefaultK8s = "v1.10.6-ske1-1"
 )
 
@@ -20,6 +19,7 @@ var (
 		"v1.9.7-rancher2-2",
 		"v1.10.5-rancher1-2",
 		"v1.10.6-ske1-1",
+		"v1.10.7-ske1-1",
 		"v1.11.1-rancher1-1",
 	}
 
